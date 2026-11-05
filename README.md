@@ -38,7 +38,7 @@ flowchart TD
 
 ## Install
 
-You need an Apple Silicon Mac with macOS 14 or later.
+You need a Mac with macOS 14 or later, Apple Silicon or Intel. The same DMG works on both.
 
 1. Download the DMG from the [latest release](https://github.com/DanieleRiccelli/devos-releases/releases/latest).
 2. Open it and drag **DevOS** into **Applications**.
@@ -85,6 +85,5 @@ To uninstall, quit DevOS and delete it from **Applications**. Delete the folder 
 
 ## Limitations
 
-- Apple Silicon only.
 - The app is not notarized, so each new install needs the **Open Anyway** step.
 - Not included: remote access, global search, system notifications.
