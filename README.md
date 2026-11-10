@@ -79,9 +79,9 @@ Nothing is downloaded or installed without asking. Installing restarts DevOS, wh
 
 ## Your data
 
-Settings, sessions and history stay on your Mac, in `~/Library/Application Support/it.nextadv.devos`, and survive updates. DevOS itself does not need an account. Your agents and the update check use the network.
+Settings, sessions and history stay on your Mac and survive updates. DevOS itself does not need an account. Your agents and the update check use the network.
 
-To uninstall, quit DevOS and delete it from **Applications**. Delete the folder above to remove your data too.
+To uninstall, quit DevOS and delete it from **Applications**.
 
 ## Limitations
 
